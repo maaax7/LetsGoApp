@@ -1,14 +1,14 @@
 //
-//  GoogleViewController.swift
+//  PerfilViewController.swift
 //  LetsGoApp
 //
-//  Created by MaaaX on 10/5/16.
+//  Created by MaaaX on 10/6/16.
 //  Copyright © 2016 MaaaX. All rights reserved.
 //
 
 import UIKit
 
-class GoogleViewController: UIViewController {
+class PerfilViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

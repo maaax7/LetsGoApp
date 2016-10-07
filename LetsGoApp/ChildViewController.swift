@@ -1,5 +1,5 @@
 //
-//  GoogleViewController.swift
+//  ChildViewController.swift
 //  LetsGoApp
 //
 //  Created by MaaaX on 10/5/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class GoogleViewController: UIViewController {
+class ChildViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
